@@ -1,5 +1,5 @@
 # HiveMind Studios
-### putting the curse in recursion since 2020
+###### putting the curse in recursion since 2020
 
 ## About us
 We are a group of students who love to code!
